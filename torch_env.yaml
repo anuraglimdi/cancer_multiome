@@ -201,4 +201,3 @@ dependencies:
   - zipp=3.21.0=pyhd8ed1ab_1
   - zstandard=0.23.0=py39hf3bc14e_1
   - zstd=1.5.7=h6491c7d_2
-prefix: /Users/anuraglimdi/opt/miniconda3/envs/torch_env

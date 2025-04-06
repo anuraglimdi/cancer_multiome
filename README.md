@@ -45,7 +45,7 @@ I will apply a VAE framework (with an encoder and decoder), typically used to re
             │   ...       
     ```
 
-- Create a conda environment with required packages:  `conda  env create -f torch_env.yaml`
+- Create a conda environment with required packages:  `conda env create -f torch_env.yaml`
 - Activate the conda environment: `conda activate torch_env`
 - Launch JupyterLab and run the `vae_predictive_model.ipynb` notebook.
     - Model training and inference on MacBook Air M1 (8GB CPU)
