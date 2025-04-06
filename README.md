@@ -25,7 +25,7 @@ I will apply a VAE framework (with an encoder and decoder), typically used to re
 ## Installation and usage
 
 - Clone the github repository 
-- Navigate to the cloned repository path and download the multi-omic datasets from the following [link](https://drive.google.com/drive/folders/14Dnv3QBp4Xzvq52Lc7HGeuk2CwCZm5mA). The directory structure should look as follows:
+- Navigate to the cloned repository path and download the multi-omic datasets from the following [link](https://drive.google.com/drive/folders/1g4g20a6_SSmhshHjEEEf0xT3rpq3vrG4). The directory structure should look as follows:
 
     ``` 
     local_path/cancer_multiome
@@ -34,7 +34,6 @@ I will apply a VAE framework (with an encoder and decoder), typically used to re
     │   data_exploration.ipynb
     │   vae_predictive_model.ipynb
     └───Dataset
-        │   Preinterview Exercise.docx
         └───Lung
             │   20231023_092657_fusions_latest.csv
             │   20231023_092657_imputed_copynumber.csv
